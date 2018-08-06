@@ -1,0 +1,3 @@
+# Goal: Ingore all SQLite Database 
+# Databases are found in the database folder
+database/*.sqlite3
